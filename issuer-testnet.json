@@ -5,13 +5,13 @@
   ],
   "type": "Profile",
   "id": "https://github.com/SmartIndiaSys/Ethereum/blob/master/issuer-testnet.json",
-  "name": "University of Learning",
-  "url": "https://www.issuer.org",
-  "introductionURL": "https://www.issuer.org/intro/",
+  "name": "University of Jeddah",
+  "url": "http://www.uj.edu.sa",
+  "introductionURL": "http://www.uj.edu.sa",
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:0xE0a21cfE7016FB446171479d3055f92825b61902",
-      "created": "2017-06-29T14:48:03.814936+00:00"
+      "created": "2019-03-18T14:48:03.814936+00:00"
     }
   ],
   "revocationList": "https://github.com/SmartIndiaSys/Ethereum/blob/master/revocation-list-testnet.json",
