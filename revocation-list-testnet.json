@@ -5,11 +5,11 @@
   "issuer": "https://github.com/SmartIndiaSys/Ethereum/blob/master/issuer-testnet.json",
   "revokedAssertions": [
     {
-      "id": "urn:uuid:93019408-acd8-4420-be5e-0400d643954a",
+      "id": "urn:uuid:68db72e4-1990-4bbb-b13f-e47e463a0166",
       "revocationReason": "Honor code violation"
     },
     {
-      "id": "urn:uuid:eda7d784-c03b-40a2-ac10-4857e9627329",
+      "id": "urn:uuid:f184e00d-fab6-4bc7-bfa4-4bac65512a3b",
       "revocationReason": "Issued in error."
     }
   ]
